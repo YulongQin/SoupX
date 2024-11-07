@@ -8,7 +8,7 @@ Description: Quantify, profile and remove ambient mRNA contamination (the "soup"
 URL: https://github.com/constantAmateur/SoupX
 Suggests: knitr, rstan, DropletUtils, rmarkdown, formatR
 VignetteBuilder: knitr
-Imports: ggplot2, Matrix, methods, Seurat (>= 3.2.2)
+Imports: 
 Depends: R (>= 3.5.0)
 LazyData: true
 LazyDataCompression: xz
